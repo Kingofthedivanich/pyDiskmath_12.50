@@ -1,0 +1,3 @@
+Input N: 11
+Max Comparisons: 19
+Array with Max Comparisons: [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
